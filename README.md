@@ -2,6 +2,8 @@
 
 This project is a landing page that consumes the TMDB API (The Movie Database) to display a list of movies. The landing page is built using HTML and JavaScript.
 
+Link: https://alexscespedes.github.io/project-landing-page/
+
 ## Table of Contents
 - Getting Started
 - Usage
