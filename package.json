@@ -4,12 +4,15 @@
   "description": "basic project with async functionalities",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "keywords": [
     "async",
     "js"
   ],
   "author": "Alexander Sencion",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
 }
